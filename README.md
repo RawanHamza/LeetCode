@@ -13,4 +13,4 @@ This is for LeetCode problems solutions
 | 06     | [Remove Element](https://github.com/RawanHamza/LeetCode/blob/main/DataStructures/removeElement.js)        | Easy        |
 | 07     | [Search Insert Position](https://github.com/RawanHamza/LeetCode/tree/main/DataStructures)        | Easy        |
 | 08     | [Valid Anagram](https://github.com/RawanHamza/LeetCode/blob/main/DataStructures/ValidAnagram.js)        | Easy        |
-
+| 09     | [Climbing Stairs](https://github.com/RawanHamza/LeetCode/blob/main/DataStructures/ClimbingStairs.js)        | Easy        |
